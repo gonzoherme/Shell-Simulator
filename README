@@ -1,23 +1,14 @@
-#####################################################################
-# CS:APP Shell Lab
-#
-# Student Source Files
-######################################################################
-
-This directory contains the files you will need for the CS:APP Shell
-Lab.
-
+***********
+Main files 
+**********
 tsh.c
-        This is the file you will be modifying and handing in.
+        Main shell process
 
-#########################################
-# You shouldn't modify any of these files
-#########################################
 tsh_helper.{c,h}
         Implements some of the utility routines you will need
 
 csapp.{c,h}
-        Utility files used in CS:APP textbook.  These included wrapped
+        Utility files. These included wrapped
         versions of a number of system functions, plus the SIO safe I/O library
 
 tshref*
